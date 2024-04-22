@@ -2,6 +2,7 @@
   "FolderOrderSettings":[
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Временные шкалы","order":8,"path":"folders/Временные шкалы.yy",},
+    {"name":"Assets","order":16,"path":"folders/Assets.yy",},
     {"name":"Звуки","order":3,"path":"folders/Звуки.yy",},
     {"name":"Кривые анимации","order":12,"path":"folders/Кривые анимации.yy",},
     {"name":"Наборы плиток","order":2,"path":"folders/Наборы плиток.yy",},
