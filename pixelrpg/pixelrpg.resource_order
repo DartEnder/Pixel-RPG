@@ -1,8 +1,8 @@
 {
   "FolderOrderSettings":[
+    {"name":"Assets","order":16,"path":"folders/Assets.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Временные шкалы","order":8,"path":"folders/Временные шкалы.yy",},
-    {"name":"Assets","order":16,"path":"folders/Assets.yy",},
     {"name":"Звуки","order":3,"path":"folders/Звуки.yy",},
     {"name":"Кривые анимации","order":12,"path":"folders/Кривые анимации.yy",},
     {"name":"Наборы плиток","order":2,"path":"folders/Наборы плиток.yy",},
@@ -17,5 +17,10 @@
     {"name":"Шейдеры","order":6,"path":"folders/Шейдеры.yy",},
     {"name":"Шрифты","order":7,"path":"folders/Шрифты.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"earths","order":1,"path":"sprites/earths/earths.yy",},
+    {"name":"Charcter","order":3,"path":"sprites/Charcter/Charcter.yy",},
+    {"name":"trees","order":2,"path":"sprites/trees/trees.yy",},
+    {"name":"TileSet2","order":1,"path":"tilesets/TileSet2/TileSet2.yy",},
+  ],
 }
