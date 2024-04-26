@@ -33,9 +33,6 @@
     "name":"_32x16_Button__9_",
     "path":"sprites/_32x16_Button__9_/_32x16_Button__9_.yy",
   },
-  "spriteMaskId":{
-    "name":"_32x16_Button__8_",
-    "path":"sprites/_32x16_Button__8_/_32x16_Button__8_.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
