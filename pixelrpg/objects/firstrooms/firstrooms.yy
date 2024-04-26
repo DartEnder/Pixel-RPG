@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"INV",
+  "%Name":"firstrooms",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Player","path":"objects/Player/Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Player","path":"objects/Player/Player.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"INV",
+  "name":"firstrooms",
   "overriddenProperties":[],
   "parent":{
     "name":"Объекты",
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"go_to",
+    "path":"sprites/go_to/go_to.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
